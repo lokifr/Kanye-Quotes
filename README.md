@@ -8,4 +8,5 @@ A fun Tkinter-based application that fetches and displays random Kanye West quot
 - 📡 Live API integration ensures fresh quotes every time.
 
 
+![image](https://github.com/user-attachments/assets/ae7d8bee-caf0-4e4a-bbc6-98b4d2b841a7)
 
